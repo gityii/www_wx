@@ -17,14 +17,19 @@
 //直接刷新获取，每获取一次都是新的
 //	print_r("access_token:<br>".$wx->getAccessToken());
 // 在数据库中缓存获取
- print_r($wx->getAccessTokenByDb());
+// print_r($wx->getAccessTokenByDb());
 // 文件缓存获取
 // print_r($wx->getAccessTokenByFile());
+
+//获取微信服务器的IP地址列表//
+//$url = 'https://api.weixin.qq.com/cgi-bin/getcallbackip?access_token='.$wx->getAccessTokenByFile();
+//$data = json_decode(file_get_contents($url) , true);
+//print_r($data);
+
     // 接口调用归零
-/*
+
     $url = 'https://api.weixin.qq.com/cgi-bin/clear_quota?access_token='.$wx->getAccessTokenByFile();
     $data['appid'] = APP_ID;
     $data = json_decode($wx->post_data($url,json_encode($data)) , true);
     print_r($data);
 
-*/
