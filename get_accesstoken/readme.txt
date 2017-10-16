@@ -1,0 +1,3 @@
+本目录的主要功能如下：
+1、获取access_token
+2、使用数据库或者文件对access_token进行缓存
