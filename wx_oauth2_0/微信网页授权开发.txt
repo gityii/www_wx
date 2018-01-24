@@ -32,3 +32,8 @@ state 			 否 			重定向后会带上state参数，开发者可以填写任意�
 
 
 2、在Wechat/Controller目录下新建IndexController.class.php控制器文件，
+
+
+
+====直接转入tp5开发======
+

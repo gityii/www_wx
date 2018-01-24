@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11974839-f63e-4d35-b1cc-223e4e3cb6e5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/AttachmentAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/Controller/AttachmentController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/Model/AttachmentModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/View/Article/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/View/Article/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/View/Config/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Attachment/adminlist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/DevTeam/DevTeamAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/DevTeam/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/DevTeam/widget.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Editor/Controller/UploadController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Editor/EditorAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Editor/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/Editor/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/EditorForAdmin/Controller/UploadController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/EditorForAdmin/EditorForAdminAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/EditorForAdmin/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/EditorForAdmin/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SiteStat/SiteStatAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SiteStat/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SiteStat/info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SocialComment/SocialCommentAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SocialComment/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SocialComment/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SystemInfo/SystemInfoAddon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SystemInfo/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Addons/SystemInfo/widget.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Common/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ActionController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/AddonsController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/AdminController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ArticleController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/AttributeController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/AuthManagerController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/CategoryController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ChannelController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ConfigController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/DatabaseController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/FileController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/MenuController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ModelController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/PublicController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/QiniuController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/ThinkController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Controller/UserController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Logic/ArticleLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Logic/BaseLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Logic/DownloadLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/ActionModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/AddonsModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/AttributeModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/AuthGroupModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/AuthRuleModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/CategoryModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/ChannelModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/ConfigModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/DocumentModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/FileModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/HooksModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/MemberModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/MenuModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/ModelModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/PictureModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/Model/UrlModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Action/actionlog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Action/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/adminlist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/create.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/edithook.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/hooks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Addons/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/batchoperate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/draftbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/examine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/mydocument.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/recycle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/reply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/sidemenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Article/sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Attribute/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Attribute/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/editgroup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/managergroup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/AuthManager/user.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Category/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Category/operate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Category/tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Channel/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Channel/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Channel/sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Config/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Config/group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Config/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Config/sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Database/export.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Database/import.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Menu/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Menu/import.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Menu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Menu/sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Model/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Model/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Model/generate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Model/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Public/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Public/error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Public/exception.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Public/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Public/success.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Qiniu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Think/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Think/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/Think/lists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/action.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/editaction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/updatenickname.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Admin/View/User/updatepassword.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Exception.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/CategoryApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/ConfigApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/DocumentApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/ModelApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/SystemApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Api/UserApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Behavior/InitHookBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Common/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Conf/tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Controller/Addon.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Common/Model/TreeModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Common/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/AddonsController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/ArticleController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/EmptyController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/FileController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/HomeController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Controller/UserController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Logic/ArticleLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Logic/BaseLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Logic/DownloadLogic.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Model/CategoryModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Model/ChannelModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Model/DocumentModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Model/FileModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Model/MemberModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Article/article/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Article/download/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Article/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Article/lists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Base/common.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Category/lists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Public/body.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Public/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Public/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Public/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/Public/var.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/User/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/User/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/View/default/User/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Home/Widget/CategoryWidget.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Common/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Controller/InstallController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Data/conf.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Data/install.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Data/install.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/Data/user.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Index/complete.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Install/step1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Install/step2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Install/step3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Install/View/Public/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Api/Api.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Api/UserApi.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Common/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Conf/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Model/UcenterMemberModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Service/Service.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/User/Service/UserService.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Common/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/AuthController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/WechatController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxAuth.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxBase.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/View/Index/ucenter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Data/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/addons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/blue_color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/default_color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/module.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/attachment_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/bg_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/blue_color/bg_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/count_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/icon24_login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/loading_icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/login_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/subnav_current.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/images/tab_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/bootstrap_alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/clike.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/php.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/3024-day.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/3024-night.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/ambiance-mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/ambiance.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/base16-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/base16-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/blackboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/cobalt.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/eclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/elegant.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/erlang-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/lesser-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/midnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/monokai.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/neat.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/night.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/paraiso-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/paraiso-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/rubyblue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/solarized.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/the-matrix.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/tomorrow-night-eighties.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/twilight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/vibrant-ink.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/xq-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/theme/xq-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/codemirror/xml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/glDatePicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/glDatePicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/styles/glDatePicker.darkneon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/styles/glDatePicker.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/glDatePicker/styles/glDatePicker.flatwhite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Admin/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/Addons/attachment/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/css/ThinkBox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/64x64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/addons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/division.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/help_more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/ico.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/ico1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/ico1_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/intro/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/one_think.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/one_thinktit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/cloud-service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/documentmodel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/modules.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/opensource.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/safe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/thinkphp3.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/useraction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/onethink/warehouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/release_topic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/renren.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/round_mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/sina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/slide_arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/slide_arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/sort_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/template.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/temporary/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/temporary/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/temporary/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/temporary/verify.html.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/u21_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/u22_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/images/weixin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Home/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Install/css/install.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Install/img/bs-docs-masthead-pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Install/img/error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Install/img/ok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Install/img/status.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/Wechat/css/weui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/css/onethink.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/img/bs-docs-masthead-pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/google-code-prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/google-code-prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/holder/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/bootstrap/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/css/datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/css/datetimepicker_blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/css/dropdown.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/js/locales/bootstrap-datetimepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/datetimepicker/less/datetimepicker.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/jquery-2.0.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/jquery-migrate-1.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/jquery.cookies.2.2.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/jquery.dragsort-0.5.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/media.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/common/rm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/default/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/default/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/default/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/kindeditor-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/anchor/anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/autoheight/autoheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/baidumap/baidumap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/baidumap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/baidumap/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/code/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/code/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/code/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/emoticons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/100.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/101.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/102.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/103.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/104.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/105.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/106.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/107.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/108.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/109.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/110.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/111.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/112.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/113.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/114.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/115.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/116.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/117.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/118.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/119.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/120.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/121.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/122.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/123.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/124.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/125.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/126.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/127.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/128.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/129.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/130.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/131.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/132.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/133.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/134.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/filemanager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/flash/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/image/images/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/insertfile/insertfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/lineheight/lineheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/link/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/map/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/media/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/multiimage/multiimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/preview/preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/quickformat/quickformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/table/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/template/html/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/template/html/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/template/html/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/kindeditor/zh_CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/qtip/imagesloaded.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/qtip/jquery.qtip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/qtip/jquery.qtip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/qtip/jquery.qtip.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/qtip/jquery.qtip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/think.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/jquery.thinkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/skin/default/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/skin/default/horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/skin/default/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/skin/default/tips_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkbox/skin/default/vertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/jquery.thinkeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/fonts/thinkeditor.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/fonts/thinkeditor.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/fonts/thinkeditor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/fonts/thinkeditor.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/fonts/thinkeditor.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/thinkeditor/skin/default/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/anchor/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/emotion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/emotion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/emotion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/bface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/cface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/fface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/tface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/wface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/emotion/images/yface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/help/help.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/help/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/help/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/images/center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/images/left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/images/none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/image/images/right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/link/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/spechars/spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/spechars/spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/table/edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/dialogs/tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/images/imglabel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/lang/zh-cn/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/Uploader.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/fileUp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/getContent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/getMovie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/getRemoteImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/imageManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/imageUp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/php/scrawlUp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/css/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/dialogbase.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/button-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/cancelbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/cursor_h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/cursor_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/cursor_v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/cursor_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/dialog-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/filescan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/highlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/icons-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/pagebreak.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/sparator_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/table-cell-align.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/toolbar_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/unhighlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/videologo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/word.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/default/images/wordpaste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/themes/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/third-party/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/third-party/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/ueditor.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/ueditor.all.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/ueditor.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/ueditor/ueditor.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/uploadify/jquery.uploadify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/uploadify/uploadify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/uploadify/uploadify.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor-1.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_lang/zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_plugins/html2markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_plugins/htmldomparser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_plugins/showdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_plugins/ubb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/progressbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-address.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-div.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-h6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-p.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/tag-pre.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/waiting.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/wmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/img/wordimg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/default/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/progressbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-address.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-div.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-h6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-p.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/tag-pre.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/waiting.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/wmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/img/wordimg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/nostyle/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/buttonbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/progressbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-address.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-div.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-h6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-p.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/tag-pre.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/waiting.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/wmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/img/wordimg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007blue/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/buttonbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/progressbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-address.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-div.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-h6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-p.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/tag-pre.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/waiting.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/wmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/img/wordimg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/o2007silver/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/buttonbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/progressbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-address.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-div.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-h6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-p.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/tag-pre.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/titlebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/waiting.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/wmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/img/wordimg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Public/static/xheditor/xheditor_skin/vista/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Common/build.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Common/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Conf/Mode/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Conf/Mode/sae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Conf/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Conf/convention_sae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Conf/debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Lang/en-us.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Lang/zh-cn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/AgentCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/BrowserCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/CheckActionRouteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ChromeShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/CronRunBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/FireShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/RobotCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/UpgradeNoticeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/OT/DataDictionary.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/OT/Database.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/OT/TagLib/Article.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/OT/TagLib/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Auth.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Behavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt/Driver/Base64.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt/Driver/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt/Driver/Des.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Crypt/Driver/Xxtea.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Ibase.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Mssql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Mysqli.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Pdo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Hook.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Image.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Image/Driver/GIF.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Image/Driver/Gd.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Image/Driver/Imagick.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Log.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Log/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Model/AdvModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Model/MongoModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Model/RelationModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Model/ViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Page.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Route.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Session/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Storage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Storage/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/TagLib.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/bgs/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/1.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/2.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/3.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/4.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/Verify/ttfs/6.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Think/View.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Library/Vendor/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/Api/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/Api/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/Sae/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Mode/sae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/ThinkPHP.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Tpl/default_index.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Tpl/dispatch_jump.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Tpl/page_trace.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/Tpl/think_exception.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/ThinkPHP/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Uploads/Attachment/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Uploads/Download/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Uploads/Editor/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/Uploads/Picture/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/readme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/wxauth/wxauth.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/~$网页授权OAuth2.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wx_oauth2_0/~WRL3976.tmp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wx_oauth2_0/微信网页授权开发.txt" afterPath="$PROJECT_DIR$/wx_oauth2_0/微信网页授权开发.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AuthController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/AuthController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access_token.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_accesstoken/access_token.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxAccessToken.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_accesstoken/WxAccessToken.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="104" column="42" lean-forward="true" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+              <folding>
+                <marker date="1508137343991" expanded="true" signature="3087:3133" ph="select * fro... db_access_token" />
+                <marker date="1508137343991" expanded="true" signature="3367:3483" ph="insert into db_access_token... " />
+                <marker date="1508137343991" expanded="true" signature="3858:3974" ph="insert into db_access_token... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_accesstoken/Db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wxtoken.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_accesstoken/wxtoken.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_accesstoken/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/IndexController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WechatController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/WechatController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxAuth.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Lib/Wx/WxAuth.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wxtoken/Db.php" />
+        <option value="$PROJECT_DIR$/wxtoken/index.php" />
+        <option value="$PROJECT_DIR$/wxtoken/WxAccessToken.class.php" />
+        <option value="$PROJECT_DIR$/yz/wxtoken.sql" />
+        <option value="$PROJECT_DIR$/yz/index.php" />
+        <option value="$PROJECT_DIR$/yz/WxAccessToken.class.php" />
+        <option value="$PROJECT_DIR$/yz/Db.php" />
+        <option value="$PROJECT_DIR$/get_accesstoken/index.php" />
+        <option value="$PROJECT_DIR$/get_accesstoken/readme.txt" />
+        <option value="$PROJECT_DIR$/get_accesstoken/WxAccessToken.class.php" />
+        <option value="$PROJECT_DIR$/daiban_weui/login.html" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxAuth.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxBase.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Controller.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Dispatcher.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/WechatController.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Exception.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/functions.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Model.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/App.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Page.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Behavior.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Cache.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Crypt.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Db.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Hook.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Image.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Log.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Route.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Storage.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Template.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Think.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Upload.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Verify.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/View.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Db/Ibase.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Ibase.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mongo.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mssql.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mysql.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mysqli.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Oracle.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Pdo.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Pgsql.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Sqlite.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Sqlsrv.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Api/Auth.class.php" />
+        <option value="$PROJECT_DIR$/wx_oauth2_0/wxauth/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wx_oauth2_0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wx_oauth2_0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wechat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wx_oauth2_0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wechat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="get_accesstoken" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_wx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daiban_weui" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\www_wx\wx_oauth2_0\wxauth\Application" />
+      <recent name="E:\www_wx\wx_oauth2_0\wxauth\Application\Wechat\Api" />
+      <recent name="E:\www_wx\wx_oauth2_0\wxauth\Application\Wechat" />
+      <recent name="E:\www_wx\yz" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11974839-f63e-4d35-b1cc-223e4e3cb6e5" name="Default" comment="" />
+      <created>1507866777068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507866777068</updated>
+      <workItem from="1507866778745" duration="6427000" />
+      <workItem from="1508118407578" duration="19365000" />
+      <workItem from="1508293529126" duration="5780000" />
+      <workItem from="1508307410201" duration="752000" />
+      <workItem from="1508312355423" duration="1888000" />
+      <workItem from="1508383282636" duration="1144000" />
+      <workItem from="1508470846138" duration="2805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15401785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/WechatController.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Ibase.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/App.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Cache.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Controller.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Crypt.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Db.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Dispatcher.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Exception.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Hook.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Image.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Model.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Page.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Route.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Storage.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Template.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Think.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Upload.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Verify.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/View.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Log.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mongo.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mssql.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mysql.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Mysqli.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Oracle.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Pdo.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Pgsql.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Sqlite.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Sqlsrv.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Common/function.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/IndexController.class.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="310" column="9" lean-forward="false" selection-start-line="310" selection-start-column="9" selection-end-line="310" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxAuth.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Dbdriver/Ibase.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Controller/AuthController.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Behavior.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Api/Auth.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Application/Wechat/Lib/Wx/WxBase.class.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/index.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/wxauth/Entry.php" />
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Lib/Wx/WxAuth.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/WechatController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_oauth2_0/Wechat/Controller/AuthController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_accesstoken/access_token.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_accesstoken/wxtoken.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_accesstoken/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_accesstoken/WxAccessToken.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="104" column="42" lean-forward="true" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+          <folding>
+            <marker date="1508137343991" expanded="true" signature="3087:3133" ph="select * fro... db_access_token" />
+            <marker date="1508137343991" expanded="true" signature="3367:3483" ph="insert into db_access_token... " />
+            <marker date="1508137343991" expanded="true" signature="3858:3974" ph="insert into db_access_token... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_accesstoken/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
